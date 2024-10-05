@@ -1,7 +1,7 @@
 # Basic Dockerfile Project 
-### This project was suggested by roadmap.sh. For more info, you can access [roadmap.sh](roadmap.sh/projects/basic-dockerfile).
+### This project was suggested by roadmap.sh.
 ---
-
+For more info: https://roadmap.sh/projects/basic-dockerfile
 ## How to run the project
 
 
